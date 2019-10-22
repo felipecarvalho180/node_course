@@ -26,9 +26,9 @@ const getName = async () => {
 
     //COMANDO FOR OF
 
-    // for (person of result.results) {
-    //   names.push(person.name);
-    // }
+    for (person of result.results) {
+      names.push(person.name);
+    }
 
   } catch (error) {
     console.error(error);
