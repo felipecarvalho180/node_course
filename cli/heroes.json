@@ -1,8 +1,17 @@
-
 [
-  { 
-    "name": "Flash", 
-    "power": "Speed", 
-    "id": 1 
+  {
+    "name": "Tony Stark",
+    "power": "Money",
+    "id": 3
+  },
+  {
+    "id": 2,
+    "name": "Flash",
+    "power": "Speed"
+  },
+  {
+    "id": 1,
+    "name": "Flash",
+    "power": "Speed"
   }
 ]
